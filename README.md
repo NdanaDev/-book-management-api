@@ -263,7 +263,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [@YourTwitter](https://twitter.com/yourhandle)
 
 Project Link: [https://github.com/NdanaDev/-book-management-api](https://github.com/NdanaDev/-book-management-api)
 
